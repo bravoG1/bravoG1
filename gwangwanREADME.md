@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bravoG1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Bravine G
+- 👀 I’m interested in codind and music
+- 🌱 I’m currently learning programing at IYF and bachelors of music at T.U.K
+- 💞️ I’m looking to collaborate on projects in future
+- 📫 How to reach me {+254 702234464}
 
 <!---
 bravoG1/bravoG1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
