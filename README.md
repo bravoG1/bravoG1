@@ -3,14 +3,14 @@
 
 **bravoG1/bravoG1**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m fun guy to start with
-- 🌱 I’m currently learning html,cs,js
-- 👯 I’m looking to collaborate on any project
+- 🌱 I’m currently learning html,cs,js,linux
+- 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with getting a firm grip in this field
-- 💬 Ask me about anything music & programming
-- 📫 How to reach me: +254 702234464
+- 💬 Ask me about anything tech and music
+- 📫 How to reach me:
+-  +254702234464
+-  bgwadima@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: more fun loving than I look
+- ⚡ Fun fact: I love playing the bass guitar
 -->
